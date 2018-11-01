@@ -7,7 +7,7 @@
 
 - A documentação da API pode ser consultada em: https://punkapi.com/documentation/v2
 
-- Pode ser utilizado qualquer framework de preferência, preprocessadores de css, task runners, bundlers, ... mas nenhum deles é obrigatório, quanto mais simples e direto ao ponto o código melhor - se algum for utilizado, não se deve commitar pastas como node_modules, o projeto deve instalar suas dependências a partir do package.json.
+- Pode ser utilizado qualquer framework de preferência, preprocessadores de css, task runners, bundlers, ... mas nenhum deles é obrigatório, quanto mais simples e direto ao ponto o código melhor (KISS) - se algum for utilizado, não se deve commitar pastas como node_modules, o projeto deve instalar suas dependências a partir do package.json.
 
 - Será julgado além do funcionamento a estrutura do código, o uso de boas práticas no css, js e html.
 
