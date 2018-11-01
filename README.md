@@ -16,5 +16,3 @@
 
 - Opcional:
 	- versão de build / produção
-
-Exemplo de "wireframe" do que esperamos receber:
