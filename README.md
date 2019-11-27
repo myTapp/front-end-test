@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="260" src="https://github.com/myTapp/front-end-test/blob/master/mytapp.png?raw=true">
+  <img width="300" src="https://raw.githubusercontent.com/myTapp/temos-vagas/master/logo_mytapp_primario.png?raw=true">
 </p>
 
 - O teste consiste em criar uma interface para consumir os dados da PunkAPI v2, a API em questão serve sem necessidade de autenticação uma lista de cervejas com suas receitas e informações
